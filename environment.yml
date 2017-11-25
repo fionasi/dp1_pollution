@@ -107,5 +107,6 @@ dependencies:
   - nb-conda==2.2.1
   - nb-conda-kernels==2.1.0
   - prompt-toolkit==1.0.15
+  - python-aqi==0.5.1
 prefix: /Users/jhadl_private/miniconda3/envs/dp1_pollution
 
