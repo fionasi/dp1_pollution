@@ -3,7 +3,6 @@ channels:
 - defaults
 dependencies:
 - _nb_ext_conf=0.4.0=py36_1
-- anaconda-client=1.6.5=py36h04cfe59_0
 - appnope=0.1.0=py36hf537a9a_0
 - asn1crypto=0.22.0=py36hb705621_1
 - bleach=2.0.0=py36h8fcea71_0
